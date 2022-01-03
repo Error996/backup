@@ -11107,12 +11107,6 @@ cdn-adn-https.rayjump.com
 sg01.rayjump.com
 play.rayjump.com
 net.rayjump.com
-is1-ssl.mzstatic.com
-is2-ssl.mzstatic.com
-is3-ssl.mzstatic.com
-is4-ssl.mzstatic.com
-is5-ssl.mzstatic.com
-apps.mzstatic.com
 z.moatads.com
 jc.anhuilitian.net
 www.smzy.com
